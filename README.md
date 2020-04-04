@@ -16,7 +16,7 @@ $ npm install
 $ npm start
 ```
 
-## Source code ☁︎
+## Get started ☁︎
 ```javascript
 const yamlParser = require('yaml-parser') // Import packages
 
@@ -52,4 +52,5 @@ When a programmer learns a new programming language, what does he do first?
 ```
 
 ## Results
-I don’t know, I think at least someone will be useful :)
+I don’t know, I think at least someone will be useful :)  
+Go to [Home](https://github.com/FukaYouTube/yaml-parser#yaml-parser--version--001-beta-), [Install](https://github.com/FukaYouTube/yaml-parser#install), [Get started](https://github.com/FukaYouTube/yaml-parser#get-started-%EF%B8%8E)
