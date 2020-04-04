@@ -1,0 +1,5 @@
+hello: |
+  When a programmer learns a new programming language, what does he do first?
+  > ${question.one}
+  > ${question.two}
+  > ${question.three}
