@@ -6,12 +6,12 @@ Contact: [@FukaChanYT](https://t.me/FukaChanYT) or [@RightDie](https://t.me/Righ
 
 ## Install
 ```
-$ npm install https://github.com/FukaYouTube
+$ npm install https://github.com/FukaYouTube/yaml-parser.git
 $ npm start
 ```
 OR
 ```
-$ git clone https://github.com/FukaYouTube
+$ git clone https://github.com/FukaYouTube/yaml-parser.git
 $ npm install
 $ npm start
 ```
