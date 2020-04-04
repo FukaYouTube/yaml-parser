@@ -1,0 +1,21 @@
+{
+  "name": "yaml-parser",
+  "version": "0.0.1",
+  "description": "Output text to yaml file and compile file on pattern strings",
+  "main": "index.js",
+  "scripts": {
+    "start": "node test/test",
+    "developer": "nodemon index"
+  },
+  "keywords": [
+    "pattern",
+    "strings",
+    "yaml",
+    "yaml-parser"
+  ],
+  "author": "Fuka",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^3.13.1"
+  }
+}
